@@ -1,5 +1,11 @@
-python-dotenv==1.0.1
-langchain==0.1.16
-langchain-openai==0.0.6
-jinja2
+fastapi==0.138.0
 uvicorn==0.49.0
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-openai==0.1.23
+langchain-text-splitters==0.2.4
+langchain-groq==0.1.10
+groq==1.5.0
+requests==2.34.2
+python-dotenv==1.2.2
